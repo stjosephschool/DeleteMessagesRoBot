@@ -88,7 +88,7 @@ START_MESSAGE = get_config("START_MESSAGE", (
     "\n\n"
     f"To use me: read 👉 {REQD_PERMISSIONS} 👈"
     "\n\n"
-    f"In case of issues, contact 👉 @playbow 👈"
+    f"👇SEND CHANNEL LINK IN WHICH YOU WANT TO DELETE POSTS👇"
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
